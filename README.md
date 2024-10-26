@@ -42,6 +42,8 @@
   
   ### 🤝🏻 &nbsp;Let's Connect!
 
+[What is it like to work on FutuCare team at Futurice?](https://www.linkedin.com/pulse/futucarean-day-thais-araujo-jenna-salo)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/this-cristine" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:this.cristine06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
